@@ -1,0 +1,158 @@
+$transition-0: all 0.4s cubic-bezier(0.2, 0.1, 0, 1.3);
+$slight-inset-shadow: inset -1px 0 3px -1px rgba(0,0,0,0.12),inset -1px 0 2px -1px rgba(0,0,0,0.24);
+
+$light-gray: #f3f3f3;
+$main-purple: #8C94FC;
+$dark-purple: #7E86EE;
+$yellow: #FDB94E;
+$red: #E2574C;
+
+$white: white;
+
+$color-0: #e21658;
+$color-0-700: #D32F2F;
+$color-0-300: #f77970;
+$color-0-a-100: #f6f3f5;
+$color-0-pale: #de89a5;
+$color-0-1-mix: #e73445;
+
+$color-1: #ed5a2e;
+$color-1-300: #ff6e40;
+$color-1-700: #e43700;
+
+$dark-color-0: #c02626;
+$dark-color-0-700: #a20f3f;
+
+$blue-0: #3470d1;
+$disabled-0: #C8CBCF;
+
+$red-orange-gradient: linear-gradient(10deg, $color-0, $color-1);
+$charcoal-gradient: linear-gradient(10deg, $dark-color-0, $dark-color-0-700);
+
+$font-0: 'Montserrat', sans-serif;
+$font-1: 'Lato', sans-serif;
+
+$cb-0: cubic-bezier(0.895, 0.03, 0.685, 0.22);
+$cb-1: cubic-bezier(0.2, 0.1, 0, 1.3);
+$alt-shadow: 0 4px 12px rgba(#000, .1);
+
+
+////
+
+$color-dark-primary: #7289DA
+$color-dark-secondary: #8198e9
+$color-light-gray: #F3F4F9
+$color-medium-gray: #e1e4f4
+$color-dark-gray: #9C9C9E
+
+// $color-dark-primary: #354590
+// $color-dark-secondary: #5a6dc3
+// $color-light-gray: #F3F4F9
+// $color-medium-gray: #e1e4f4
+// $color-dark-gray: #9C9C9E
+
+////
+
+
+
+// $color-0: #24cccc
+// $color-1: #17bf98
+
+// $color-text: color-text: #494d4d;
+
+// $dark-color-0: #10706f
+
+
+// #F02843 | D145F2
+// $pale-red: #F24546
+// $red-pink: #f12562 || #ea426d?
+
+
+// darkkk #32274c && #393069
+// mypurp #9f8beb
+// darkkkmypurp #1f1b2e
+
+
+// $color-0: #F44336
+// $color-0-700: #D32F2F
+// $color-0-300: #f77970
+// $color-0-a-100: #feeae9
+// $red-orange-gradient: linear-gradient(10deg, $color-0, $color-1)
+
+// $color-1: #F02843
+// $color-1-700: #E9102D
+// $color-1-300: #F67E8E
+//
+// $color-highlight: #DBDDFC
+// $color-0: #8C94FC
+// $color-0-700: #505CFA
+
+// $color-0: #EE3A62
+// $color-0-700: #D8133F
+// $color-0-300: #F3728F
+// $color-0-a-100: #FDE8EC
+//
+//
+// $color-1: #28F098
+// $color-1-300: #61F4B3
+// $color-1-700: #0ECD79
+
+// $color-0: #03A9F4
+// $color-0-700: #027FB8
+// $color-0-300: #38BFFD
+//
+// $color-1: #4DE5D7
+// $color-1-700: #1FD6C5
+// $color-1-300: #82EDE3
+
+// $color-0: #7279DA
+// $color-0-700: #414BCD
+// $color-0-300: #A2A7E7
+//
+// $color-1: #9172DA
+// $color-1-700: #6B41CD
+// $color-1-300: #B7A2E7
+
+// $gradient-0: linear-gradient(10deg, $color-1, $color-0)
+
+
+// $color-1: #FF5722
+// $color-1-300: #ff6e40
+// $color-1-700: #e43700
+
+// $color-1: #D145F2
+// $color-1-300: #DF7EF6
+// $color-1-700: #C010E9
+
+// $color-1: #45F2DB
+// $color-1-300: #7EF6E6
+// $color-1-700: #10E9CD
+
+// $color-1: #FAA61A
+// $color-1-300: #FBBD56
+// $color-1-700: #D28505
+
+// $color-1: #F02843
+// $color-1-700: #E9102D
+// $color-1-300: #F67E8E
+// $color-1-a-100: #feeae9
+
+// $color-1: #F24582
+// $color-1-700: #E9105D
+// $color-1-300: #F67EA8
+// $color-1-100: #FEF5F9
+
+
+// $dark-color-0: #1F1D31
+// $dark-color-0-600: #2C2845
+// $dark-color-0-800: #13111E
+
+// $dark-color-0: #2e2a49
+// $dark-color-0: #181F2B
+
+//
+// $color-2: #3470d1
+// $color-2-300: #6693DC
+// $color-2-700: #2555A3
+
+// $gradient-0: linear-gradient(10deg, $color-0-700, $color-0)
