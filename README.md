@@ -32,7 +32,7 @@ _AppBar is not meant to be used as a specifically imported and utilized componen
   </tr>
   <tr>
     <td>handlers</td>
-    <td><a href="#objectoffunctionst">ObjectOfFunctionsT</a></td>
+    <td><a href="/fp-001.md#pure-functions">ObjectOfFunctionsT</a></td>
     <td>n/a</td>
     <td>n/a</td>
   </tr>
