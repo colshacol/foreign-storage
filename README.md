@@ -32,7 +32,7 @@ _AppBar is not meant to be used as a specifically imported and utilized componen
   </tr>
   <tr>
     <td>handlers</td>
-    <td><a href="types-object-of-functions">ObjectOfFunctionsT</a></td>
+    <td><a href="#ObjectOfFunctionsT">ObjectOfFunctionsT</a></td>
     <td>n/a</td>
     <td>n/a</td>
   </tr>
@@ -54,7 +54,7 @@ import { AppBar } from '@copart/ops-core-yard-app-frame'
 
 [ObjectOfFunctionsT]: foodbar
 
-#### [ObjectOfFunctionsT](#types-object-of-functions)
+#### ObjectOfFunctionsT
 
 
 ```js
