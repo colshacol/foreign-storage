@@ -10,12 +10,15 @@
 
   --colorWhite: #ffffff;
 
-  --colorGray0: #f8f9fb;
-  --colorGray1: #eef2f5;
-  --colorGray2: #e0e5e9;
-  --colorGray3: #8894a0;
-  --colorGray4: #8091a5;
-  --colorGray5: #5f6b77;
+  --colorGray100: #F8F9FA;
+  --colorGray200: #EBEDF0;
+  --colorGray300: #DDE0E5;
+  --colorGray400: #CED3D9;
+  --colorGray500: #BEC4CC;
+  --colorGray600: #ACB3BE;
+  --colorGra700: #97A0AD;
+  --colorGray800: #7E8A9A;
+  --colorGray900: #636C7A;
   
   --colorPrimary100: #cfeaff;
   --colorPrimary200: #a0d2ff;
