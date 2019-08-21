@@ -1,0 +1,131 @@
+@import url("https://unicons.iconscout.com/release/v1.0.0/css/unicons.css");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,300i,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap");
+
+:root {
+  --primaryFont: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --secondaryFont: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+
+  --colorWhite: #ffffff;
+  --colorPrimary100: #cfeaff;
+  --colorPrimary200: #a0d2ff;
+  --colorPrimary300: #70b6ff;
+  --colorPrimary400: #4d9dff;
+  --colorPrimary500: #1273ff;
+  --colorPrimary600: #0d58db;
+  --colorPrimary700: #0941b7;
+  --colorPrimary800: #052e93;
+  --colorPrimary900: #03207a;
+  --colorSuccess100: #ddfcd7;
+  --colorSuccess200: #b5f9b0;
+  --colorSuccess300: #85ed88;
+  --colorSuccess400: #63db71;
+  --colorSuccess500: #35c454;
+  --colorSuccess600: #26a84f;
+  --colorSuccess700: #1a8d49;
+  --colorSuccess800: #107141;
+  --colorSuccess900: #0a5e3c;
+  --colorInfo100: #d8fbfe;
+  --colorInfo200: #b2f3fe;
+  --colorInfo300: #8be6fe;
+  --colorInfo400: #6ed6fd;
+  --colorInfo500: #3fbdfc;
+  --colorInfo600: #2e94d8;
+  --colorInfo700: #1f70b5;
+  --colorInfo800: #144f92;
+  --colorInfo900: #0c3878;
+  --colorWarning100: #fff7da;
+  --colorWarning200: #ffecb5;
+  --colorWarning300: #ffdf90;
+  --colorWarning400: #ffd375;
+  --colorWarning500: #ffbe47;
+  --colorWarning600: #db9a33;
+  --colorWarning700: #b77823;
+  --colorWarning800: #935a16;
+  --colorWarning900: #7a440d;
+  --colorDanger100: #ffe7d3;
+  --colorDanger200: #ffc8a8;
+  --colorDanger300: #ffa27c;
+  --colorDanger400: #ff7e5c;
+  --colorDanger500: #ff4326;
+  --colorDanger600: #db261b;
+  --colorDanger700: #b71317;
+  --colorDanger800: #930c1a;
+  --colorDanger900: #7a071c;
+  --colorDark400: #687393;
+  --colorDark500: #01144a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  color: var(--colorDark500);
+  font-family: var(--secondaryFont);
+}
+
+h2 {
+  text-transform: uppercase;
+  font-family: var(--primaryFont);
+  font-style: normal;
+  font-weight: 800;
+  font-size: 3.2rem;
+  line-height: 3.9rem;
+  letter-spacing: 0.3rem;
+  color: #051937;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-family: var(--primaryFont);
+  font-style: normal;
+  font-weight: 800;
+  font-size: 2.6rem;
+  line-height: 3.2rem;
+  letter-spacing: 0.2rem;
+  color: #051937;
+}
+
+h4 {
+  text-transform: uppercase;
+  font-family: var(--primaryFont);
+  font-style: normal;
+  font-weight: 800;
+  font-size: 2.2rem;
+  line-height: 2.7rem;
+  letter-spacing: 0.2rem;
+  color: #051937;
+}
+
+h5 {
+  text-transform: uppercase;
+  font-family: var(--primaryFont);
+  font-style: normal;
+  font-weight: 800;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+  letter-spacing: 0.2rem;
+  color: #051937;
+}
+
+p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.5px;
+}
+
+a,
+button {
+  cursor: pointer;
+}
