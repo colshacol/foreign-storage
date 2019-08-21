@@ -9,6 +9,14 @@
     Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 
   --colorWhite: #ffffff;
+
+  --colorGray0: #f8f9fb;
+  --colorGray1: #eef2f5;
+  --colorGray2: #e0e5e9;
+  --colorGray3: #8894a0;
+  --colorGray4: #8091a5;
+  --colorGray5: #5f6b77;
+  
   --colorPrimary100: #cfeaff;
   --colorPrimary200: #a0d2ff;
   --colorPrimary300: #70b6ff;
